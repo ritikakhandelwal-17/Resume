@@ -150,11 +150,12 @@ th ,td{
     width: 45px;
     height: 45px;
     max-width: 80vw;
+    padding: 0.25rem;
     
 }
 .contact-div{
     text-align: center;
-    padding: 1rem;
+    padding: 0.75rem;
 }
 .top-div{
     text-align: center;
@@ -166,4 +167,10 @@ th ,td{
     max-width: 80vw;
 
     
+}
+.info{
+    color:#ea481a;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0.3rem;
 }
